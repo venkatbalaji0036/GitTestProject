@@ -35,10 +35,8 @@ public class Test_Case_Execution {
 	Globals gb = new Globals();
 	
 	WebDriver driver=new ChromeDriver();
-	//public WebDriver driver = new FirefoxDriver();
 	
-	
-	
+	//These are objects of this page
 	By User_Name = By.xpath("//input[@id='input_5_1']");
 	By Mail_id = By.xpath("//input[@id='input_5_2']");
 	By Mobile_No = By.xpath("//input[@id='input_5_3']");
