@@ -36,7 +36,7 @@ public class Test_Case_Execution {
 	
 	WebDriver driver=new ChromeDriver();
 	
-	//These are objects of this page
+	//These are the comments I just gave to understand Git
 	By User_Name = By.xpath("//input[@id='input_5_1']");
 	By Mail_id = By.xpath("//input[@id='input_5_2']");
 	By Mobile_No = By.xpath("//input[@id='input_5_3']");
