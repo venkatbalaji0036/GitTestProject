@@ -27,7 +27,7 @@ public class NewMain {
 	} 
 
 	
-	//Adding a comment to work to push the code to GitHub
+	//Adding a comment to work to push the code to GitHub in add_Commit branch
 	//@Test
 	private void NewMain_Method() throws Exception {
 		try{
